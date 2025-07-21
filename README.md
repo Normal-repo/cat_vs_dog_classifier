@@ -35,7 +35,8 @@ This project is a CNN(convolution Neural Network) model trained to differentiate
 
  ## Prediction
  graph of validation accuracy vs training accuracy
- ![Training Graph](training_graph.png)
+ ![Training Graph](images/training_graph.png)
 
  ## Parameters
- Total parameters an
+ Total parameters of model
+ ![Model Parameter](images/model_detail.png)
