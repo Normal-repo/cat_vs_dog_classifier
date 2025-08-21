@@ -23,14 +23,14 @@ This project is a CNN(convolution Neural Network) model trained to differentiate
 
 ## Project
 
+---
+- 📁 cnn-dog-vs-cat
+- ├── cat_dog_classifier.ipynb
+- ├── model
+- ├── images
+- └── README.md
 
-📁 cnn-dog-vs-cat
-├── cat_dog_classifier.ipynb 
-├── model
-├── images
-└── README.md 
-
-
+---
 
 
  ## Prediction
